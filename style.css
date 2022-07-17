@@ -49,7 +49,7 @@ h2{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: cover;
+    background-position: 0% 70%;
 }
 .experience-item{
     width: 40%;
